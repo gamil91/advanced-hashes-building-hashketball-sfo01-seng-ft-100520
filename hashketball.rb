@@ -7,7 +7,7 @@ def game_hash
     :colors => [" ", " "],
     
     :players => [
-      :player_name => " ",
+      {:player_name => " ",
       :number => " ",
       :shoe => " ",
       :points => " ",
@@ -15,7 +15,7 @@ def game_hash
       :assists => " ",
       :steals => " ",
       :blocks => " ",
-      :slam_dunks => " "
+      :slam_dunks => " "},
                 ]
     
         },
