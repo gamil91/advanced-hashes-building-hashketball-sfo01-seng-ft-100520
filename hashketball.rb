@@ -20,7 +20,7 @@ def game_hash
     
         },
     
-  :away {
+  :away => {
       
       
       
